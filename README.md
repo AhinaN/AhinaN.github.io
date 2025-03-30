@@ -6,4 +6,4 @@
 
 
 
-I am currently a postdoc at Radboud University, Nijmegen under the supervision of [Magdalena Kedzioręk](https://sites.google.com/view/mkedziorek). Most of my research is on motivic, and equivariant stable homotopy theory.
+I am currently a postdoc at Radboud University, Nijmegen under the supervision of [Magdalena Kędziorek](https://sites.google.com/view/mkedziorek). Most of my research is on motivic, and equivariant stable homotopy theory.
