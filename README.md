@@ -12,7 +12,7 @@ In motivic homotopy theory, I am interested in the notion of different orientati
 
 Recently I got interested in understanding different levels of equivariant commutativity (aka normed infinity operads) in the rational setting.
 
-Here is my [CV]().
+Here is my [CV](https://drive.google.com/file/d/1C4sI0T-GbJDAUczOHw2nza_h3yVMUvo0/view?usp=sharing).
 
 ### Papers/Preprints
 1. An interpolation between special linear and general algebraic cobordism MSL and MGL (submitted). Preprint available at [arXiv:2310.15721](https://arxiv.org/abs/2310.15721).
