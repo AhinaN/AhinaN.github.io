@@ -16,5 +16,5 @@ Here is my [CV](https://drive.google.com/file/d/1C4sI0T-GbJDAUczOHw2nza_h3yVMUvo
 
 ### Papers/Preprints
 1. An interpolation between special linear and general algebraic cobordism MSL and MGL (submitted). Preprint available at [arXiv:2310.15721](https://arxiv.org/abs/2310.15721).
-2. On the Oriented Algebraic Cobordism Spectrum, joint with [Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html). Preprint available [here](https://github.com/AhinaN/AhinaN.github.io/blob/main/The_motivic_Thom_spectrum_of_oriented_vector_bundles%20(final%20draft).pdf).
+2. On the Oriented Algebraic Cobordism Spectrum, joint with [Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html). Preprint available [here](https://github.com/AhinaN/AhinaN.github.io/blob/16f85053e53759f1002130099b4c9b3d7b292cf7/The_motivic_Thom_spectrum_of_oriented_vector_bundles%20(final%20draft).pdf).
 3. Slices of the Special Linear Algebraic Cobordism (draft available on request), joint with [Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html) and [Oliver Röndigs](http://mathematik.uni-osnabrueck.de/roendigs).
